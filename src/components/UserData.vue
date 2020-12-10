@@ -18,7 +18,7 @@
 
 <script>
 export default {
-  emits: ['add-user'],
+  emits: ['add-user'], // emit
   data() {
     return {
       enteredName: '',

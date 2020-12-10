@@ -7,7 +7,7 @@
         v-for="user in users"
         :key="user.id"
         :user-name="user.username"
-        :age="user.age"/>
+        :age="user.age"/> //Component
       </div>
 
       <user-data @add-user="addUser"/>
