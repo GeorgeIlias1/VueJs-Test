@@ -26,7 +26,7 @@ export default {
         {
           id: 1,
           username: 'sIREN_GR',
-          age: 25 // this is a number
+          age: 25 // this is a number! Wow awesome
         }
       ]
     };
